@@ -4,7 +4,7 @@
 - in create (maybe it's take you time to learn -which most of those comes from mistake, fail.. but the progress always fun)
 
 - 🌱 I’m currently learning FullStack Dev, but I think soon I'm going with Machine Learning, Quantum in morden ways...
-- 💞️ I like doing stuff, enjoy every moment that I have
+- 💞️ I like doing stuffs, enjoy every moment that I have
 - 📫 How to reach me: maybe I'll find out later
 
 <!---
